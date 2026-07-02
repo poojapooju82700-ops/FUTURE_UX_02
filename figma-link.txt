@@ -1,0 +1,7 @@
+UX Task 2 – Appointment Booking App UI
+
+Figma Design Link:
+https://www.figma.com/design/P6tvjmdoJSSBz3ZlpcDQnk/Untitled?node-id=0-1&t=xZrF3gfbnHPUQK72-1
+
+Description:
+This project contains a mobile UI design for an appointment booking system including login, service selection, date & time selection, confirmation, and dashboard screens.
